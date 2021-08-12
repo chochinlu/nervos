@@ -125,8 +125,22 @@ link: https://explorer.nervos.org/aggron/transaction/0x75236215959d28fe59573ce7e
 
 1. A screenshot of the console output immediately after deploying smart contract.
 
+![Screen Shot 2021-08-12 at 18 29 53](https://user-images.githubusercontent.com/1825273/129183196-2dd7797a-dda9-4ef1-a680-54715684902f.png)
+
+
 2. The address of the ERC20 Proxy Contract you deployed (in text format).
+
+```
+0x9E9A3B134aB2E20ab9aDf07BaF3a718f6fA25D64
+```
 
 3. A screenshot of the console output immediately after checking your SUDT balance.
 
+![Screen Shot 2021-08-12 at 18 36 13](https://user-images.githubusercontent.com/1825273/129183273-ace4b513-0467-4765-ba18-e7de4b151873.png)
+
+
 4. The Ethereum address that was checked (in text format).
+
+```
+0x4BA7d69ab5eb67ba6d5edc7f2d0216A448E94f87
+```
