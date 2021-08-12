@@ -39,3 +39,60 @@ link: https://explorer.nervos.org/aggron/address/ckt1qyqpta5actjvmtlpx87dgysuvle
 ```
 0xa9dc32387C28CA262204EE0C7d0ABbabA4D0777E
 ```
+
+## Task 3
+
+1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
+
+![Screen Shot 2021-08-12 at 15 04 30](https://user-images.githubusercontent.com/1825273/129152665-f0472c83-45b4-4ca7-9d66-3aac8181200e.png)
+
+
+2. The transaction hash from the console output (in text format).
+
+```
+0xd240ef366d989d9ad23d6777f89d58fcfa02fa6568945adedb2248d45d496223
+```
+
+3. The contract address that you called (in text format).
+
+```
+0xa9dc32387C28CA262204EE0C7d0ABbabA4D0777E
+```
+
+4. The ABI for contract you made a call on (in text format).
+
+``` js
+ [
+      {
+        "inputs": [],
+        "stateMutability": "payable",
+        "type": "constructor"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "x",
+            "type": "uint256"
+          }
+        ],
+        "name": "set",
+        "outputs": [],
+        "stateMutability": "payable",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "get",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+  ]
+```
