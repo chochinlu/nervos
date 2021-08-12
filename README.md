@@ -21,3 +21,21 @@ link: https://explorer.nervos.org/aggron/address/ckt1qyqpta5actjvmtlpx87dgysuvle
 
 ![Screen Shot 2021-08-12 at 10 47 42](https://user-images.githubusercontent.com/1825273/129130804-92751d63-263f-4a1a-a8d4-5c6691c34177.png)
 
+
+## Task 2 
+
+1. A screenshot of the console output immediately after you have successfully deployed a smart contract.
+
+![Screen Shot 2021-08-12 at 14 17 38](https://user-images.githubusercontent.com/1825273/129147524-bfbf5592-1b21-4b6d-86eb-aa5b9ae6597a.png)
+
+2. The transaction hash from the contract deployment (in text format).
+
+```
+0xa13119457bc5ab67cc91ef57c0a10b048d6dfca3c7d9aed72b64386c28e2c711
+```
+
+3. The deployed contract address from the contract deployment (in text format).
+
+```
+0xa9dc32387C28CA262204EE0C7d0ABbabA4D0777E
+```
