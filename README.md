@@ -144,3 +144,30 @@ link: https://explorer.nervos.org/aggron/transaction/0x75236215959d28fe59573ce7e
 ```
 0x4BA7d69ab5eb67ba6d5edc7f2d0216A448E94f87
 ```
+
+## Task 6
+
+1. A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
+
+![Screen Shot 2021-08-13 at 15 26 46](https://user-images.githubusercontent.com/1825273/129321400-d2d4f621-9691-4a71-ad96-593daf613d72.png)
+
+2. Your Deposit Receiver Address (in text format).
+
+```
+ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqpyt39x9h5lzuf0vemv3nmfl3qujkt9lgsa0dgynqanyzyhyp3cgs6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k5ja866dtt6m8hfk4ahrl95ppdfzga98cwq9rqgqqqqqqcq9ve5l3
+```
+
+3. The Ethereum address used to generate the Deposit Receiver Address (in text format).
+
+```
+0x4BA7d69ab5eb67ba6d5edc7f2d0216A448E94f87
+```
+
+4. A link to the Etherscan explorer for the successful Force Bridge transaction. This can be found on Force Bridge under History→Succeed.
+
+link: https://rinkeby.etherscan.io/tx/0x8e3b7b2974dc1cad9c97045c0a8067a33d9cdc1c0bb2a7922569c773b979203b
+
+
+5. A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
+
+link: https://explorer.nervos.org/aggron/transaction/0x7774a7af35d6bae948291d3e63e529c4b6f527422c12370f925fe1b2224e662c
