@@ -171,3 +171,12 @@ link: https://rinkeby.etherscan.io/tx/0x8e3b7b2974dc1cad9c97045c0a8067a33d9cdc1c
 5. A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
 
 link: https://explorer.nervos.org/aggron/transaction/0x7774a7af35d6bae948291d3e63e529c4b6f527422c12370f925fe1b2224e662c
+
+
+## Task 7
+
+- Screenshots or video of your application running on Godwoken.
+
+- Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
+
+- If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)
